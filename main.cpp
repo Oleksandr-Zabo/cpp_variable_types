@@ -24,10 +24,6 @@ int main()
 	cout << "500\n";
 
 	SetConsoleTextAttribute(hConsole, 0x0A);
-
-
-	
-
 	system("pause");
 	return 0;
 }
