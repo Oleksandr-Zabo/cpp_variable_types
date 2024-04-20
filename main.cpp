@@ -39,19 +39,19 @@ int main()
 	}
 	cout << char(center_down);
 
-	cout << char(left_top_right);
+	
 	for (int i = 0; i < 21; i++) {
 		cout << char(top_line);
 	}
 	cout << char(center_down);
 
-	cout << char(left_top_right);
+	
 	for (int i = 0; i < 21; i++) {
 		cout << char(top_line);
 	}
 	cout << char(center_down);
-	cout << char(left_top_right);
-	for (int i = 0; i < 21; i++) {
+	
+	for (int i = 0; i < 18; i++) {
 		cout << char(top_line);
 	}
 
