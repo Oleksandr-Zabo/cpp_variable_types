@@ -74,9 +74,28 @@ int main()
 
 
 	cout << char(down_left);
-	for (int i = 0; i < 84; i++) {
+
+	for (int i = 0; i < 21; i++) {
 		cout << char(top_line);
 	}
+	cout << char(center_top);
+
+
+	for (int i = 0; i < 21; i++) {
+		cout << char(top_line);
+	}
+	cout << char(center_top);
+
+
+	for (int i = 0; i < 21; i++) {
+		cout << char(top_line);
+	}
+	cout << char(center_top);
+
+	for (int i = 0; i < 18; i++) {
+		cout << char(top_line);
+	}
+
 	cout << char(down_right)<<"\n" << endl;
 
 	system("pause");
